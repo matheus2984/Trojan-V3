@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{EA6EB343-6DC6-432C-859F-7A1D92C7B90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{A8C6BB5B-81B3-4CD7-9AED-42802A2C660E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TroPlugin", "TroPlugin\TroPlugin.csproj", "{728193E9-8A42-4D02-BAB8-F71786F520A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6EB343-6DC6-432C-859F-7A1D92C7B90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6EB343-6DC6-432C-859F-7A1D92C7B90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6EB343-6DC6-432C-859F-7A1D92C7B90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6EB343-6DC6-432C-859F-7A1D92C7B90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C6BB5B-81B3-4CD7-9AED-42802A2C660E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C6BB5B-81B3-4CD7-9AED-42802A2C660E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C6BB5B-81B3-4CD7-9AED-42802A2C660E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C6BB5B-81B3-4CD7-9AED-42802A2C660E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728193E9-8A42-4D02-BAB8-F71786F520A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728193E9-8A42-4D02-BAB8-F71786F520A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728193E9-8A42-4D02-BAB8-F71786F520A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728193E9-8A42-4D02-BAB8-F71786F520A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
